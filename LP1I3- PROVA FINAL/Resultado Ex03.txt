@@ -1,0 +1,73 @@
+----------------------------
+26/06/2023
+10:15:30
+Ivaldo
+Luiz
+----------------------------
+Digite o dia: 
+15
+Digite o mês: 
+12
+Digite o ano: 
+2023
+----------------------------
+Digite as horas: 
+15
+Digite os minutos: 
+30
+Digite os segundos: 
+5
+----------------------------
+Digite o nome do paciente: 
+rAFAEL
+----------------------------
+Digite o nome do medico: 
+Renato
+----------------------------
+15/12/2023
+15:30:05
+Paciente: rAFAEL
+Médico: Renato
+----------------------------
+Digite o dia: 
+95
+Data inválida!
+Digite o dia: 
+65
+Data inválida!
+Digite o dia: 
+13
+Digite o mês: 
+15
+Digite um mês entre 1 e 12!
+Digite o mês: 
+06
+Digite o ano: 
+2023
+----------------------------
+Digite as horas: 
+16
+Digite os minutos: 
+30
+Digite os segundos: 
+15
+----------------------------
+Digite o nome do medico: 
+Victor
+----------------------------
+Digite o nome do paciente: 
+Bruno
+----------------------------
+13/06/2023
+16:30:15
+Paciente: Bruno
+Médico: Victor
+ 
+ 
+Total de consultas:  2
+
+Process finished with exit code 0
+
+
+
+DateTimeOffset? data
